@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Flagship_Mobiles-2020/static/css/main.ac7bf558.chunk.css",
+    "main.js": "/Flagship_Mobiles-2020/static/js/main.29c85324.chunk.js",
+    "main.js.map": "/Flagship_Mobiles-2020/static/js/main.29c85324.chunk.js.map",
+    "runtime-main.js": "/Flagship_Mobiles-2020/static/js/runtime-main.2385b39e.js",
+    "runtime-main.js.map": "/Flagship_Mobiles-2020/static/js/runtime-main.2385b39e.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Flagship_Mobiles-2020/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.cc0d7a8d.chunk.js": "/Flagship_Mobiles-2020/static/js/2.cc0d7a8d.chunk.js",
+    "static/js/2.cc0d7a8d.chunk.js.map": "/Flagship_Mobiles-2020/static/js/2.cc0d7a8d.chunk.js.map",
+    "index.html": "/Flagship_Mobiles-2020/index.html",
+    "precache-manifest.2cefc8951c2fe59c1b9add44c67e6a37.js": "/Flagship_Mobiles-2020/precache-manifest.2cefc8951c2fe59c1b9add44c67e6a37.js",
+    "service-worker.js": "/Flagship_Mobiles-2020/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Flagship_Mobiles-2020/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.ac7bf558.chunk.css.map": "/Flagship_Mobiles-2020/static/css/main.ac7bf558.chunk.css.map",
+    "static/js/2.cc0d7a8d.chunk.js.LICENSE.txt": "/Flagship_Mobiles-2020/static/js/2.cc0d7a8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2385b39e.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.cc0d7a8d.chunk.js",
+    "static/css/main.ac7bf558.chunk.css",
+    "static/js/main.29c85324.chunk.js"
+  ]
+}
